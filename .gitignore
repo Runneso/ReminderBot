@@ -1,0 +1,7 @@
+# dotenv files
+.env
+
+# Pycharm IDE
+.venv
+.idea
+
